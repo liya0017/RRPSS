@@ -1,0 +1,26 @@
+Brandon Loke
+Male
+Manager
+1
+
+Jonathan Lim
+Male
+Cashier
+2
+
+Liya
+Female
+Waitress
+3
+
+Janesse Lim
+Female
+Janitor
+4
+
+Sheng Huai
+Male
+Waiter
+5
+
+END

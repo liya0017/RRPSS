@@ -1,0 +1,35 @@
+MainCourse
+Chicken Rice
+Delicious and savory
+5.5
+
+MainCourse
+Chicken Noodle
+Gud Soup
+6.5
+
+MainCourse
+Nasi Lemak
+Coconut Rice, Sambal Chili, Ikan Bilis
+69.0
+
+Drink
+Ice Lemon Tea
+Cool and refreshing
+3.5
+
+Drink
+Ice Chocolate
+Pretty good
+4.2
+
+Dessert
+Ice Cream
+The classic
+6.8
+
+Dessert
+Mango Pudding
+Hong Kong's favourite dessert
+
+END
